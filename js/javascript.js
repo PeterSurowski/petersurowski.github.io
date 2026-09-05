@@ -112,7 +112,7 @@ function rehider() {
 // These add project-specific content to #project-description:
 function contentAdderOne() {
     $('#project-image').empty();
-    $('#project-image').append('<a href="./img/projects/Solution_Architect.pdf" target="_blank"><img src="./img/projects/Solution_Architect.pdf"/></a>');
+    $('#project-image').append('<a href="./img/projects/Solution_Architect.pdf" target="_blank"><img src="./img/projects/resumescreenshot.png"/></a>');
     $('#project-copy').empty();
     $('#project-copy').append("<h3>My Resume</h3><p><strong>Technologies used:</strong>Adobe Illustrator</p><p><strong>Description:</strong>Peter is an AI software engineer and solution architect with 26 years of experience working for such companies as AOL and Automattic (WordPress.com, Tumblr.com, etc).</p><h4><a href='./img/projects/Solution_Architect.pdf' target='_blank'>CHECK IT OUT!</a></h4> ");
 }
