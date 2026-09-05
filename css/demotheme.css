@@ -120,6 +120,10 @@ div.parallaxImg-page {
   padding: 0;
 }
 
+#project-5, #project-6, #project-7, #project-8 {
+  display: none;
+}
+
 #project-5 {
   background-image: url("../img/projects/capoeira300x300.jpg");
   width: 100%;
